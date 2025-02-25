@@ -1,8 +1,8 @@
 # 👋 **About Me**  
 
-For the longest time I have been playing a video game called *Football Manager*. It is a management simulator that provides players with a ton of data for making in-game decisions; What tactic to play, which players to pick for the next game, who to buy, what to focus on in training, etc. This formed the foundation for my love of data and ultimately my decision to upskill as a **Data Analyst**.
+For the longest time I have been playing a video game called *Football Manager*. It is a management simulator that provides players with a ton of data for making in-game decisions — what tactics to use, which players to select, who to sign, and how to optimize training. This game sparked my love for data and ultimately led me to upskill as a **Data Analyst**.
 
-I have been working with data for more than 10 years, helping businesses recruit and retain customers through **Digital Marketing**. This included buying media using algorythms, working with website and survey data to design marketing strategies, and reporting on the success of these activities using analytical platforms such as Meta and Google Analytics.
+I have been working with data for more than 10 years already. As a *Digital Marketing Specialist* I helped businesses recruit and retain customers. This included buying advertising space using algorythms, analysing website and survey data to design marketing strategies, and reporting on the success of these activities using analytical platforms such as Meta and Google Analytics.
 
 I hold a **BA Hons in Business Administration** from the University of the West of England (UWE) and am currently completing a **Data Analytics program with Masterschool**, where I’ve gained hands-on experience in **SQL, Python, and Tableau**.  
 
@@ -27,8 +27,8 @@ I hold a **BA Hons in Business Administration** from the University of the West 
 ---
 
 ## 🎯 **Beyond Data**  
-⚽ **Coach** – Youth football trainer at **English Football Club Berlin**, developing technical, leadership and teamwork skills.  
-🌍 **Adaptable** – Lived in four countries, worked across multiple industries. Currently learning German to expand my communication skills. 
+⚽ **Coach** – Youth football trainer at *English Football Club Berlin*, developing technical, leadership and teamwork skills.  
+🌍 **Adaptable** – Lived in four countries, worked across multiple industries. Currently learning German to expand my communication skills.  
 🇩🇪 **Optimised** – Seeking ways to optimise my health and life experience. Tracking sleep.
 
 
@@ -36,6 +36,6 @@ I hold a **BA Hons in Business Administration** from the University of the West 
 
 ## 📫 **Explore Further**  
 
-LinkedIn (https://www.linkedin.com/in/danhellmuth/)
-GitHub (https://github.com/DanMontHell)
-Tableau (https://public.tableau.com/app/profile/daniel.montreal.hellmuth/vizzes)
+**[LinkedIn](https://www.linkedin.com/in/danhellmuth/)**  
+**[GitHub](https://github.com/DanMontHell)**  
+**[Tableau](https://public.tableau.com/app/profile/daniel.montreal.hellmuth/vizzes)**
