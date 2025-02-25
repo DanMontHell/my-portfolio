@@ -27,9 +27,9 @@ I hold a **BA Hons in Business Administration** from the University of the West 
 ---
 
 ## 🎯 **Beyond Data**  
-⚽ **Coach** – Youth football trainer at *English Football Club Berlin*, developing technical, leadership and teamwork skills.  
-🌍 **Adaptable** – Lived in four countries, worked across multiple industries. Currently learning German to expand my communication skills.  
-🇩🇪 **Optimised** – Seeking ways to optimise my health and life experience. Tracking sleep.
+⚽ **Coach** – Youth football trainer at *English Football Club Berlin*. Working with kids to develop technical, leadership and teamwork skills.  
+🌍 **Adaptable** – Lived in four countries, worked across multiple industries. Learning German to expand my communication skills.  
+🔥 **Optimised** – Always seeking new ways to optimise my health and life experience. Practicing Calisthenics and tracking sleep scores.
 
 
 ---
