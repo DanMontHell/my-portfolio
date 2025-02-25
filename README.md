@@ -1,8 +1,8 @@
-# **👋 Welcome to my profile**  
+# 👋 **About Me**  
 
-For many years I have played a video game called Football Manager that heavily relies on data to make in game decisions. This played a big part in my decision to upskill and deep dive into the world of **data analytics**.
+For the longest time I have been playing a video game called *Football Manager*. It is a management simulator that provides players with a ton of data for making in-game decisions; What tactic to play, which players to pick for the next game, who to buy, what to focus on in training, etc. This formed the foundation for my love of data and ultimately my decision to upskill as a **Data Analyst**.
 
-I have a rich background in **digital marketing** which has given me first hand experience working with data to make decisions. This includes planning and buying media using algorythms, working with website and survey data to design marketing strategies, and reporting on the success of these activities using analytical platforms such as Google Analytics and Adobe Analytics. 
+I have been working with data for more than 10 years, helping businesses recruit and retain customers through **Digital Marketing**. This included buying media using algorythms, working with website and survey data to design marketing strategies, and reporting on the success of these activities using analytical platforms such as Meta and Google Analytics.
 
 I hold a **BA Hons in Business Administration** from the University of the West of England (UWE) and am currently completing a **Data Analytics program with Masterschool**, where I’ve gained hands-on experience in **SQL, Python, and Tableau**.  
 
@@ -10,10 +10,10 @@ I hold a **BA Hons in Business Administration** from the University of the West 
 ---
 
 ## 🚀 **Technical Skills**  
-✔️ **Data Analytics** – Translating data into actionable insights.  
-✔️ **SQL & Databases** – Querying, joins, aggregations, window functions.  
-✔️ **Python and Data Analysis** – Pandas, NumPy, Matplotlib, Seaborn, SciPy, data cleaning, exploratory DA, statistical DA, A/B testing.  
-✔️ **Data Visualization & Storytelling** – Excel reporting, and Tableau dashboards.  
+✔️ **Data Analysis** – Translating data into actionable insights.  
+✔️ **SQL** – Querying, joins, aggregations, window functions.  
+✔️ **Python** – Pandas, NumPy, Matplotlib, Seaborn, SciPy, data cleaning, exploratory DA, statistical DA, A/B testing.  
+✔️ **Data Visualization** – Excel reporting, and Tableau dashboards.  
 ✔️ **Digital Marketing** – Leveraging data to plan, buy and measure campaigns and operations.
 
 
@@ -27,9 +27,9 @@ I hold a **BA Hons in Business Administration** from the University of the West 
 ---
 
 ## 🎯 **Beyond Data**  
-⚽ **Community Coach** – Youth football trainer at **English Football Club Berlin**, developing technical, leadership and teamwork skills.  
-🌍 **Adaptable** – Lived in four countries, worked across multiple industries and collaborated with senior stakeholders.  
-🇩🇪 **Personal Development** – Seeking ways to optimise my health and life experience. Currently learning German to expand my communication skills.  
+⚽ **Coach** – Youth football trainer at **English Football Club Berlin**, developing technical, leadership and teamwork skills.  
+🌍 **Adaptable** – Lived in four countries, worked across multiple industries. Currently learning German to expand my communication skills. 
+🇩🇪 **Optimised** – Seeking ways to optimise my health and life experience. Tracking sleep.
 
 
 ---
