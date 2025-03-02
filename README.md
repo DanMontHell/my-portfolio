@@ -21,7 +21,7 @@ I hold a **BA Hons in Business Administration** from the University of the West 
 
 ## 📌 **Projects**  
 🔹 **[Ecommerce Analysis with SQL and Tableau](https://github.com/DanMontHell/SQL-Masterschool-Project)** – Data cleaning, exploration and insights.  
-🔹 **[Car Dataset Analysis with Python](your-project-link)** – Data wrangling and statistical analysis with Pandas, NumPy, MatPlotlib and Seaborn.  
+🔹 **[Car Dataset Analysis with Python](https://github.com/DanMontHell/Python-Masterschool-Project)** – Data cleaning, exploratory data analysis and correlation analysis with Pandas, NumPy, MatPlotlib and Seaborn.  
 
 
 ---
